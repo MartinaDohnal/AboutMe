@@ -6,11 +6,11 @@
 
 :green_circle: I've been working on technical and soft skills required to become a Data Analyst for some time and I'm ready to build a portfolio of real-world projects demonstrating competency with key technologies, visualization and communication techniques, and the ability to translate information into recommended actions.
 
-**Check out my:**
-* [Data Analysis Portfolio](https://github.com/MartinaDohnal/Data_Analysis_Portfolio) 
+**Check out my:** 
+* [Data Analysis Portfolio](https://github.com/MartinaDohnal/Data_Analysis_Portfolio)
   * [Case Studies](https://github.com/MartinaDohnal/Data_Analysis_Portfolio#portfolio-projects)
   * [Study Projects](https://github.com/MartinaDohnal/Data_Analysis_Portfolio#study-projects)
-* [Certificates](https://github.com/MartinaDohnal/Data_Analysis_Portfolio#certificates)
+* [Certificates](https://github.com/MartinaDohnal/Data_Analysis_Portfolio/edit/main/README.md#certificates)
 
 **Let's connect!**
 * Linkedin: [@mdohnal](https://www.linkedin.com/in/mdohnal/)
