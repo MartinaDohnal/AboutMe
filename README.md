@@ -13,5 +13,5 @@
 * [Certificates](https://github.com/MartinaDohnal/Data_Analysis_Portfolio/edit/main/README.md#certificates)
 
 **Let's connect!**
-* Linkedin: [@mdohnal](https://www.linkedin.com/in/mdohnal/)
+* Linkedin: [@martinadohnal](https://www.linkedin.com/in/mdohnal/)
 * E-mail: dohnal.martina@gmail.com
