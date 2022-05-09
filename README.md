@@ -14,5 +14,4 @@
 
 **Let's connect!**
 * Linkedin: [@mdohnal](https://www.linkedin.com/in/mdohnal/)
-* Twitter: [@martina_dohnal](https://twitter.com/dohnalica)
 * E-mail: dohnal.martina@gmail.com
