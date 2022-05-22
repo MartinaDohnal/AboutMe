@@ -8,7 +8,7 @@
 
 **Check out my:** 
 * [Data Analysis Portfolio](https://github.com/MartinaDohnal/Data_Analysis_Portfolio)
-  * [Case Studies](https://github.com/MartinaDohnal/Data_Analysis_Portfolio#portfolio-projects)
+  * [Portfolio Projects](https://github.com/MartinaDohnal/Data_Analysis_Portfolio#portfolio-projects)
   * [Study Projects](https://github.com/MartinaDohnal/Data_Analysis_Portfolio#study-projects)
 * [Certificates](https://github.com/MartinaDohnal/Data_Analysis_Portfolio/edit/main/README.md#certificates)
 
