@@ -1,10 +1,19 @@
-## Hi, I'm Martina! 👋
+## Hello! 👋
 
-:green_circle: I have a Master's degree in Economics (mag. oec.) and for the last 15 years, I've been working in financial management and implementation of European projects as an EU projects finance officer in a State-owned enterprise.
+I'm Martina Dohnal, a data analyst with 10+ years of experience in finance, accounting and controlling. Currently, I am an EU-funded Projects Financial Specialist responsible for the financial management of a portfolio of projects worth multiple million €.💰
 
-:dart:For the last 2 years, I've been thinking about making a career change to Data Analytics and I decided this 2022. is going to be the year when I'm finally going to do it.
+Fascinated by the impact of data on business operations, I retrained as a data analyst 📊 and enjoyed every second of the path I chose. I hope to blend my newfound data analysis skills with existing business knowledge to bring unique insights into my future role. 
 
-:green_circle: I've been working on technical and soft skills required to become a Data Analyst for some time and I'm ready to build a portfolio of real-world projects demonstrating competency with key technologies, visualization and communication techniques, and the ability to translate information into recommended actions.
+I'm currently working on my Data Visualization skills and have so much fun doing it.❤
+
+I love learning new things and I'm very curious person; INTJ-T personality.
+
+If you catch me outside of work, I'm a frequent traveller, and an avid reader! 📖 Love hiking and my pets 🐕🐈🦜.
+
+Also, I'm passionate about digital marketing, especially SEO.🔎
+
+I enjoy connecting with new people; give me a shout at 📧 dohnal.martina@gmail.com, on Twitter 
+(@martina_dohnal), on Goodreads, Instagram, or on LinkedIn! 
 
 **Check out my:** 
 * [Data Analysis Portfolio](https://github.com/MartinaDohnal/Data_Analysis_Portfolio)
