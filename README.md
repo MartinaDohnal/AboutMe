@@ -1,12 +1,12 @@
 ## Hello! 👋
 
-I'm Martina Dohnal, a data analyst with 10+ years of experience in finance, accounting and controlling. Currently, I am an EU-funded Projects Financial Specialist responsible for the financial management of a portfolio of projects worth multiple million €.💰
+I'm Martina Dohnal, a data analyst with experience in finance, accounting and controlling. Currently, I am an Financial Controller of EU-funded projects responsible for the financial management of a portfolio of projects worth multiple meur.💰
 
 Fascinated by the impact of data on business operations, I retrained as a data analyst 📊 and enjoyed every second of the path I chose. I hope to blend my newfound data analysis skills with existing business knowledge to bring unique insights into my future role. 
 
-I'm currently working on my Data Visualization skills and have so much fun doing it.❤
+I currently work on my Data Visualization skills and have so much fun doing it.❤
 
-I love learning new things and I'm very curious person; INTJ-T personality.
+I love learning new things, and I'm a very curious person; INTJ-T personality.
 
 If you catch me outside of work, I'm a frequent traveller, and an avid reader! 📖 Love hiking and my pets 🐕🐈🦜.
 
