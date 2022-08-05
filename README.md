@@ -16,9 +16,7 @@ I enjoy connecting with new people; give me a shout at 📧 dohnal.martina@gmail
 (@martina_dohnal), on Goodreads, Instagram, or on LinkedIn! 
 
 **Check out my:** 
-* [Data Analysis Portfolio](https://github.com/MartinaDohnal/Data_Analysis_Portfolio)
-  * [Portfolio Projects](https://github.com/MartinaDohnal/Data_Analysis_Portfolio#portfolio-projects)
-  * [Study Projects](https://github.com/MartinaDohnal/Data_Analysis_Portfolio#study-projects)
+* [Data Analysis Portfolio](https://github.com/MartinaDohnal/Data_Analysis_Portfolio#portfolio-and-study-projects)
 * [Certificates](https://github.com/MartinaDohnal/Data_Analysis_Portfolio/edit/main/README.md#certificates)
 
 **Let's connect!**
